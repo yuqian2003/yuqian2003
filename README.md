@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @yuqian2003
 - 👀 I’m interested in Multi-Agent System, Large Language Models, Tabular Deep Learning
-- 🌱 I’m currently learning ...
+- 🌱 I’m a senior student at Beijing Normal University-Hong Kong Baptist University United International College, majoring in AI. My supervisor is Raymond S. T. Lee. I’m currently learning Large Language Models (LLM), Multi-Agent Coevolution, Ontology, and Recommender Systems.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 2212278116@qq.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Qian
 - ⚡ Fun fact: ...
-
-<!---
-yuqian2003/yuqian2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
