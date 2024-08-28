@@ -4,4 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 2212278116@qq.com
 - 😄 Pronouns: Qian
-- ⚡ Fun fact: ...
+- ⚡ Accepted Paper:
+# "Deep Feature Embedding for Tabular Data" has been accepted at ICONIP 2024 (Conference Rank: CCF-C, CORE-A).
+
