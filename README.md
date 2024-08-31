@@ -6,7 +6,7 @@ I’m a senior student at Beijing Normal University-Hong Kong Baptist University
 # 💞️ I’m looking to collaborate on 
 Multi-Agent System, NLP, Tabular Deep Learning
 # 📫 How to reach me: 
-2212278116@qq.com
+r130034042@mail.uic.edu.cn
 # 😄 Pronouns: Qian
 # ⚡ Accepted Paper:
 ## "Deep Feature Embedding for Tabular Data" at ICONIP 2024 (Conference Rank: CORE-A, CCF-C, Acceptance Rate in 2023: 20.6%)
