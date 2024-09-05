@@ -10,7 +10,7 @@ Feel free to explore my projects and reach out for any discussions or collaborat
 - Tabular Deep Learning
 - AI4Science
 # 💞️ I’m looking to collaborate on 
-Multi-Agent System, NLP, Tabular Deep Learning
+Multi-Agent System, Efficient Multimodal LLMs, Tabular Deep Learning
 # 📫 How to reach me: 
 r130034042@mail.uic.edu.cn
 # 😄 Pronouns: Qian
