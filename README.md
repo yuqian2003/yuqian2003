@@ -1,7 +1,8 @@
 # 👋 Hi, I’m @yuqian2003
 # 🌱 Introduction
 I'm a senior student majoring in Artificial Intelligence at Beijing Normal University-Hong Kong Baptist University United International College (UIC). 
-# 🎓 I am under the supervision of Professor Raymond S. T. Lee, who has been instrumental in guiding my academic and research endeavors.
+# 🎓 State
+I am under the supervision of Professor Raymond S. T. Lee, who has been instrumental in guiding my academic and research endeavors.
 Feel free to explore my projects and reach out for any discussions or collaborations in the field of AI!
 # 📚 My current areas of study and research include:
 - Large Language Models
