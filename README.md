@@ -1,8 +1,13 @@
 # 👋 Hi, I’m @yuqian2003
-# 👀 Research Domian
-I’m interested in Multi-Agent System, Large Language Models, Tabular Deep Learning, Neural Networks
 # 🌱 Introduction
-I’m a senior student at Beijing Normal University-Hong Kong Baptist University United International College, majoring in AI. My supervisor is Raymond S. T. Lee. I’m currently learning Large Language Models (LLM), Multi-Agent Collaboration, and Recommender Systems.
+I'm a senior student majoring in Artificial Intelligence at Beijing Normal University-Hong Kong Baptist University United International College (UIC). 
+# 🎓 I am under the supervision of Professor Raymond S. T. Lee, who has been instrumental in guiding my academic and research endeavors.
+Feel free to explore my projects and reach out for any discussions or collaborations in the field of AI!
+# 📚 My current areas of study and research include:
+- Large Language Models
+- Multi-Agent Collaboration
+- Tabular Deep Learning
+- AI4Science
 # 💞️ I’m looking to collaborate on 
 Multi-Agent System, NLP, Tabular Deep Learning
 # 📫 How to reach me: 
