@@ -5,10 +5,10 @@ I'm a senior student majoring in Artificial Intelligence at Beijing Normal Unive
 I am under the supervision of Professor Raymond S. T. Lee, who has been instrumental in guiding my academic and research endeavors.
 Feel free to explore my projects and reach out for any discussions or collaborations in the field of AI!
 # 📚 My current areas of study and research include:
-- Large Language Models
 - Multi-Agent Collaboration
+- Large Language Models
 - Tabular Deep Learning
-- AI4Science
+- Recommendation System
 # 💞️ I’m looking to collaborate on 
 Multi-Agent System, Efficient Multimodal LLMs, Tabular Deep Learning
 # 📫 How to reach me: 
