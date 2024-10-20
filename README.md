@@ -12,6 +12,8 @@ Feel free to explore my projects and reach out for any discussions or collaborat
 # 💞️ I’m looking to collaborate on 
 Multi-Agent System, Efficient Multimodal LLMs, Tabular Deep Learning
 # 📫 How to reach me: 
+yuqianwu2003@outlook.com
+
 r130034042@mail.uic.edu.cn
 # 😄 Pronouns: Qian
 # ⚡ Accepted Paper:
